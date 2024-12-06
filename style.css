@@ -1,0 +1,70 @@
+.navbar-brand{
+
+    font-weight: bold;
+}
+
+
+.navbar #mymenu .custom-nav .nav-item a{
+
+    color: white;
+}
+
+.navbar #mymenu .custom-nav .nav-item a :hover{
+
+    color: #f0aab1;
+}
+/* Header img subtitle */
+.back-img{
+    background-size: cover;
+    background-position: center center;
+    background-repeat: no-repeat;
+    min-height: 90vh;
+    border-radius: 0px;
+    margin-top: 55px;
+
+}
+
+.mainHeading{
+    margin-top: 50px;
+    margin-left : 35px;
+}
+
+
+@media only screen and (max-width: 600px){
+.myclass{
+    margin-top: 350px;
+    text-align: center;
+}
+}
+
+.fi-color{
+
+    color: #dc3545;
+}
+.fi-colo :hover{
+
+    color: #e994a2;
+}
+a{
+    color: black;
+}
+.active{
+    color: white;
+    background-color: #dc3545;
+}
+a:hover{
+
+    color: #f26571;
+}
+body {
+    background-color: #f8f9fa;
+}
+.login-container {
+    margin-top: 100px;
+}
+.login-form {
+    background-color: #ffffff;
+    padding: 30px;
+    border-radius: 5px;
+    box-shadow: 0 2px 10px rgba(0, 0, 0, 0.1);
+}
